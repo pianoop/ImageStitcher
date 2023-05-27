@@ -3,8 +3,8 @@ The program automatically finds matching points between the images and combines 
 <br/><br/><br/>  
   
 ## Version
-Python: 3.7.16  
-Opencv: 3.4.2  
+- Python: 3.7.16  
+- Opencv: 3.4.2  
 <br/><br/><br/>  
 
 ## 설명
